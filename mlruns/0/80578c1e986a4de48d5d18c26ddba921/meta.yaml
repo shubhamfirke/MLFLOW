@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/80578c1e986a4de48d5d18c26ddba921/artifacts
+end_time: 1696222627822
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 80578c1e986a4de48d5d18c26ddba921
+run_name: industrious-tern-78
+run_uuid: 80578c1e986a4de48d5d18c26ddba921
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696222627707
+status: 3
+tags: []
+user_id: Shubham

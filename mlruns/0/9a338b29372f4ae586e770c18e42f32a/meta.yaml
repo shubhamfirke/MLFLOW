@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9a338b29372f4ae586e770c18e42f32a/artifacts
+end_time: 1695741248863
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9a338b29372f4ae586e770c18e42f32a
+run_name: learned-gnu-43
+run_uuid: 9a338b29372f4ae586e770c18e42f32a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695741248639
+status: 3
+tags: []
+user_id: Shubham

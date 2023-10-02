@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5f2cce1a074947c98be4f4a4a9accf6b/artifacts
+end_time: 1695920032324
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5f2cce1a074947c98be4f4a4a9accf6b
+run_name: loud-crab-910
+run_uuid: 5f2cce1a074947c98be4f4a4a9accf6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695920032185
+status: 3
+tags: []
+user_id: Shubham

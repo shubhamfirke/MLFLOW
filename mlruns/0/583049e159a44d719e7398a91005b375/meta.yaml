@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/583049e159a44d719e7398a91005b375/artifacts
+end_time: 1695741084032
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 583049e159a44d719e7398a91005b375
+run_name: placid-sponge-436
+run_uuid: 583049e159a44d719e7398a91005b375
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695741083930
+status: 3
+tags: []
+user_id: Shubham
